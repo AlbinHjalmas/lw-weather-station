@@ -1,0 +1,15 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\armjlink2.dll" 
+
+"C:\Users\Jacob\Documents\Programmering\DST\Hardware\Project\Debug\Exe\Project.out" 
+
+--plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\bin\armbat.dll" 
+
+--device_macro "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.3\arm\config\debugger\Atmel\SAM3XA.dmac" 
+
+--macro "C:\Users\Jacob\Documents\Programmering\DST\Hardware\Project\arduino_due_x_sram.mac" 
+
+
+
+
